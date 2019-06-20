@@ -1,0 +1,25 @@
+asn1crypto==0.24.0
+cffi==1.9.1
+click==6.7
+cryptography==2.3
+cx-Oracle==5.2.1
+Flask==0.12
+idna==2.2
+itsdangerous==0.24
+Jinja2==2.9.4
+MarkupSafe==0.23
+paramiko==2.1.1
+psycopg2==2.7.5
+pyasn1==0.1.9
+pycparser==2.17
+pymarc==3.1.5
+requests==2.12.4
+scp==0.10.2
+scpclient==0.7
+six==1.10.0
+SQLAlchemy==1.1.4
+sqlsoup==0.9.1
+-e git+https://github.com/twisted/twisted.git@4b4d325c20a07c6e34008b6ef5c9b53f4c1f411c#egg=Twisted
+Wand==0.4.4
+Werkzeug==0.11.15
+zope.interface==4.3.3
