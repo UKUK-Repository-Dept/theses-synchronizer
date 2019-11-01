@@ -21,5 +21,5 @@ SQLAlchemy==1.1.4
 sqlsoup==0.9.1
 -e git+https://github.com/twisted/twisted.git@4b4d325c20a07c6e34008b6ef5c9b53f4c1f411c#egg=Twisted
 Wand==0.4.4
-Werkzeug==0.11.15
+Werkzeug==0.15.3
 zope.interface==4.3.3
