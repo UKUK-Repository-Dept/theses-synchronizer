@@ -6,7 +6,7 @@ cx-Oracle==5.2.1
 Flask==0.12
 idna==2.2
 itsdangerous==0.24
-Jinja2==2.9.4
+Jinja2==2.11.3
 MarkupSafe==0.23
 paramiko==2.1.1
 psycopg2==2.7.5
